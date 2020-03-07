@@ -21,7 +21,7 @@ An example data file with four sample with two in each class is given below.
 100 -100 -1
 ```
 
-#####Note
+##### Note
 Range of the displayed coordinates are x:[-1000,1000] and y:[-1000,1000] . So, if training points are outside these range they will not be shown but training will be affected.
 
 #### Usage
